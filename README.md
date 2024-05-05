@@ -1,7 +1,7 @@
 <html>
 <head>
 	<title>wow</title>
-</head>head>
+</head>
 
 
 <body>
