@@ -7,7 +7,7 @@
       <center><h6><font size="10"><font color="pink">click the button</font></font></h6></center>
    <down><a href="https://bulbuwad.github.io/GTA-6-Download/">Go Bakc to Home</a></down>
    <a href="Rick Astley - Never Gonna Give You Up (Official Music Video).mp3">
-      <center><span>Download</span></center> 
+      <center><span min heigh="100" display="flex">Download t</span></center> 
    </a>
  </body>
 </html>
