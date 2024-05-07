@@ -7,7 +7,6 @@
       <center><h6><font size="10"><font color="white">github.io</font></font></h6></center>
    <down><a href="https://bulbuwad.github.io/New-WebSite/">Go Bakc to Home</a></down>
      <audio controls src="Rick Astley - Never Gonna Give You Up (Official Music Video).mp3">
-       
-  </body>
+ </body>
 </html>
 
