@@ -7,7 +7,7 @@
       <center><h6><font size="10"><font color="white">click the button</font></font></h6></center>
    <down><a href="https://bulbuwad.github.io/New-WebSite/">Go Bakc to Home</a></down>
    <a href="Rick Astley - Never Gonna Give You Up (Official Music Video).mp3">
-      <center><button><font color="red"><font size="20">click me!</button></center> 
+      <center><button width="200">click me!</button></center> 
    </a>
  </body>
 </html>
