@@ -7,7 +7,7 @@
       <center><h6><font size="10"><font color="white">github.io</font></font></h6></center>
    <a href="https://bulbuwad.github.io/New-WebSite/">Go Bakc to Home</a>
      <audio controls src="Rick Astley - Never Gonna Give You Up (Official Music Video).mp3">
-<a herf="Rick Astley - Never Gonna Give You Up (Official Music Video).mp3" download="Rick Astley - Never Gonna Give You Up (Official Music Video).mp3" download class="download-btn">download<i class="fa fa-download"></i></a>       
+<a herf="Rick Astley - Never Gonna Give You Up (Official Music Video).mp3" downlod>downlod</a>       
   </body>
 </html>
 
