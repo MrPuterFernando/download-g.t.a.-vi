@@ -4,8 +4,8 @@
  </head>
   <body background="Screenshot 2024-05-07 193200.png">
      <center><h1><font size="120"><font color="pink">Download G.T.A.-6 </font></font></h1></center>                                               
-      <center><h6><font size="10"><font color="purple">click the button</font></font></h6></center>
-   <down><a href="https://bulbuwad.github.io/GTA-6-Download/"><font size="300">Go Bakc to Home</font></a></down>
+      <center><h6><font size="10"><font color="pink">click the button</font></font></h6></center>
+   <down><a href="https://bulbuwad.github.io/GTA-6-Download/"><font size="150">Go Bakc to Home</font></a></down>
    <a href="Rick Astley - Never Gonna Give You Up (Official Music Video).mp3">
       <center><img src="Screenshot 2024-05-07 203558.png" width="150"></center> 
    </a>
