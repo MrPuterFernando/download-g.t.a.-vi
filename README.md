@@ -10,7 +10,7 @@
      <down><a href="https://bulbuwad.github.io/GTA-6-Download/"><button style="arrow"><img src="Screenshot 2024-05-08 072535.png" width="50"></button></a></down>
       <center><img src="Screenshot 2024-05-07 203558.png" width="200"></center> 
    </a>
- </body>
+</body>
 </html>
   
      
