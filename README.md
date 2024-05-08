@@ -19,7 +19,7 @@
    <div class="content">
         <h1>Download G.T.A.-6</h1>
         <p>click the button</p>
-        <img src="my-image.jpg" alt="My Image">
+        <img src="R.jpeg" alt="R.jpeg">
     </div> 
    <a href="Rick Astley - Never Gonna Give You Up (Official Music Video).mp3">
      <down><a href="https://bulbuwad.github.io/GTA-6-Download/"><button style="arrow"><img src="Screenshot 2024-05-08 072535.png"></button></a></down>
@@ -27,4 +27,5 @@
    </a>
  </body>
 </html>
-
+  
+     
